@@ -1,1 +1,2 @@
-This is the text1 file in main branch !
+This is the text1 file in sample  branch !
+Its in the sAmple Branch (text added (modified))!
